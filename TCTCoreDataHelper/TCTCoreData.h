@@ -18,9 +18,6 @@
 @property (nonatomic, copy) NSString *storeFileName;
 @property (nonatomic, assign) TCTCoreDataStoreType storeType;
 
-
 @property (readonly, strong, nonatomic) NSManagedObjectContext *managedObjectMainContext;
-@property (readonly, strong, nonatomic) NSManagedObjectModel *managedObjectModel;
-@property (readonly, strong, nonatomic) NSPersistentStoreCoordinator *persistentStoreCoordinator;
 
 @end

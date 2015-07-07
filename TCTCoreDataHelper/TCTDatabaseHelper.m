@@ -36,7 +36,6 @@
         NSLog(@"%@", error.description);
     }
     return objects;
-    
 }
 
 + (id)createModelWithEntityName:(NSString *)entityName{

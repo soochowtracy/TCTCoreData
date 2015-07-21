@@ -8,5 +8,5 @@
 
 #import <Foundation/Foundation.h>
 
-NSString * const TCTCoreDataModelName = @"tongchengNew";
-NSString * const TCTCoreDataStoreFileName = @"TCTravel_Iphone_V630";
+NSString * const TCTCoreDataModelName = @"XXXXXX";
+NSString * const TCTCoreDataStoreFileName = @"XXXXXXXX";
